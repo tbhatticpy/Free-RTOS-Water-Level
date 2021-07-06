@@ -1,0 +1,6 @@
+1- Download the FreeRTOS source code folder from https://www.freertos.org/a00104.html
+   It contains all the configuration files and interdependencies
+2- Unzip the FreeRTOS folder and open the WIN32 MSVC solution in the Visual Studio v19
+3- Copy and paste the code provided in code.txt file in the main_blinky.c in MSVC solution
+4- Run the windows debugger for simulation 
+5- Once the water level in tank reaches 30 (max threshold), press any key on keyboard to start the motor in reverse direction and so on
